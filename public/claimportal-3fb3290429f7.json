@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "claimportal-288906",
+  "private_key_id": "3fb3290429f7c49c78429ca0ca296fbd0b3bd7ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTq0rVfWkgYmAl\nBR460jSNOamv0VfY0kInIkFV7Xs5Ppj0d7jKTkyQ/spiCvp/H2N+qetY2RvedLVi\npJwcE4uBBZ1g7bDPlBV93m8KtBn7BEZKYujZOL4lHYGzhTHxmUTh9tLAWBX9UDvv\n/kh3TCIJEpKw5bJeMd1uuzt9U8grM3QiraPLKTxqBd8KHBxdzqVfnEuKDKFyJar9\newOwKpMGBsNfQn7lWxmH8qleauRWX6R+qMKyPDGMt14Xa6BH5PCLTjU8StD8L7fM\ndzGJY0w2dHKYNfZK5ZrE+kW+8HVCsJ9co5ybzrbVc3kGKRlyP0hC/lD7ZH/YyPzj\nGpU0e6ldAgMBAAECggEALpez/059x40gEMYRo20F+FhLC9KO/cE6opadvyZpS26G\nCLoZyR53KCuNrQsxnK3yHr2Uepg/1DXof3AwlNWQjbQIsn9fvjGgkXZXBwoh9ek4\n98LR8o7U/CKEnFmjZsUQLpVASuqY3Iu+xdM5bFkr3Mdj1uCY5LchQPCh5bJ9i1R/\njyZKgd72nF9H2AxPqJ63a0oJE7XIDVvoKBduo1j4fQFzDeBJ8qlF2VSVtCyyFQ8c\ndvKYOzInxN8w/+9OD/LdOasB1wIPuzfwsqoVPcAPCY85rACUf7zO40a2mP2g1D29\nNsEBSh93yeRXyBTynNUhsLZeuT2xFQlztxLpaNT+QQKBgQD0ex164y0CkOCK1iU/\njB5BiYhSpdsr7FOFDCMhIJyIkX6XwSkoRe6EXkmketFx/e42oXOx2OcL2MZSBAE0\n64f+dcmCDqdhWQnYx7OvttVzXj7ifk/hErX0MB4ZBWnU0ZVKmVQRg7OgZ1Fys1Vz\nF9PRHS7sXFucjxsIDXrb8ooRiQKBgQDdpGgz1a5ZYF7JKMggIUEWiSRl9hDPpp2h\nIjjsad6uLYO7nlLWcjjKoz8PBrGBXNu8DP7Zc1LAkcggtj7D0ZxG70o3/LKK1ieu\nxmQtvwK98uTnh8ag6IUjeXe8b1g+GOZ+dOf6e1ytbBuJGiJJXpOrAOXegX+Z4OYy\ncDayINvINQKBgDiNoiwjEO5fBRIYp1Uj3HvcjKRRqXlnmYpVXGr1WEBfJ6GDFToz\nsxD7np1lq71quAf7IQAq5IdhBb9DHeRX94VtScfEDAQAzL5Qs8gZyxZ83p8WCPRP\nl7d8yfmPvwNz180B2uiSRqL8Q2L9CO8uu9jLn2cdljOJBv+93oWyfS3BAoGBAM4c\nwq5Zau5AmUS2AQ0n/5BGbqvG3TFNf07GNWtctLEDMHr8K4qy469FijGeBtoHEWxa\nJXDwNqdPqm0JLWsKdSreAgX4n8xOhM6aPbTw6UrdIxNQh11BffZUUg3Q+Z2dqFM2\nwjeEGtZHL4Aa5oGWSvp+NkXp5VCi/U8wXRzfQ6N1AoGAKAyQNLsJoaAz9P9mjTvY\nDclZxGFZ4F6dJ0Xw9tjD5ZYVekXIhsS8lQ56yVSU3Q7Nxl8w139PxMp2oarVGYuq\nOk/QxqVDOKHRYjJvzhFv+kTMl/JW5eCDpZDyZ43mnVaOvDaA6e3LR0YgRgUlqpFC\n73VKaIaf/+BYRXBW9Xv4zyM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "claim-admin@claimportal-288906.iam.gserviceaccount.com",
+  "client_id": "101784608517325097310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/claim-admin%40claimportal-288906.iam.gserviceaccount.com"
+}
